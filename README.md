@@ -65,7 +65,7 @@
 
 ---
 
-### ⭐️ From [juanvega22](https://github.com/Bgstatic) ### 
+### ⭐️ From [juanvega22](https://github.com/Juanvega22) ### 
 
 ---
 
