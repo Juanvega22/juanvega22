@@ -1,8 +1,28 @@
 
-# Hi there, I'm Jesus Vega 
+#   <h1 align="center">  Hi👋, There, I'm Jesus Vega  <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> 
 
-##  SOY CIENTIFICO DE DATOS 
-## I AM A STUDENT OF SYSTEMS ENGINEERING
+  ##  SOY ANALISTA DE DATOS  Y STUDENT OF SYSTEMS ENGINEERING. 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">
+  </ul>
+</div>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"> ¡SOLO SE QUE NO SE NADA! </h2></summary>
+  </ul>
+</div>
 
 -👨‍💻 Currently, I am working with Python and managing databases with SQL and PostgreSQL. Additionally, I use Git for version control and collaboration on data science projects. I am applying this knowledge to analyze and visualize data, as well as to develop data-driven solutions that can add value in various areas.
   
@@ -11,16 +31,6 @@
 -💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
   
 -⚡ Fun fact: I love playing billiards and I like to listen to vallenato by the Zuleta. 
-
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
-
----
 
 
 
