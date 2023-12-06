@@ -4,13 +4,13 @@
 ##  SOY CIENTIFICO DE DATOS 
 ## I AM A STUDENT OF SYSTEMS ENGINEERING
 
-- 👨‍💻 Currently, I am working with Python and managing databases with SQL and PostgreSQL. Additionally, I use Git for version control and collaboration on data science projects. I am applying this knowledge to analyze and visualize data, as well as to develop data-driven solutions that can add value in various areas.
+-👨‍💻 Currently, I am working with Python and managing databases with SQL and PostgreSQL. Additionally, I use Git for version control and collaboration on data science projects. I am applying this knowledge to analyze and visualize data, as well as to develop data-driven solutions that can add value in various areas.
   
-- 📚 Currently, I am focusing my efforts in the field of data science, working intensively with Python. I am learning new technologies and techniques to improve my data analysis and processing skills. My goal is to apply this knowledge to develop data-driven solutions that can add value in various areas.
+-📚 Currently, I am focusing my efforts in the field of data science, working intensively with Python. I am learning new technologies and techniques to improve my data analysis and processing skills. My goal is to apply this knowledge to develop data-driven solutions that can add value in various areas.
+
+-💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
   
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-  
-- ⚡ Fun fact: I love playing pool and listening to Zuleta's vallenato. 
+-⚡ Fun fact: I love playing billiards and I like to listen to vallenato by the Zuleta. 
 
 ---
 
@@ -22,14 +22,13 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-### Contact with me 📝
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
+### Comunicate conmigo📝
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-vega-244190274/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brantlauro/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.brantlauro@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.juanvega1612p@gmail.com)
 
 <br />
 
